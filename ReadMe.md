@@ -79,3 +79,22 @@ You can see my CV from my [Linkedin Profile]([url](https://www.linkedin.com/in/a
 - Due to the company rules, it is forbidden to share resources or documents related to the projects I was involved in, so I cannot give written information about projects. But I'm working in telecommunication area and I worked as a analyst in many fiber and copper internet projects and IoT projects.
 
 - Also I voluntarily participate in alpha or beta tests of games that are in development phase outside of working hours. ex: DayZ Standalone, Project Zomboid
+
+# **References**
+1-  Emre Altay
+
+Team Leader
+
+Egemsoft Bilgi İletişim A.Ş
+
+Email: altayemre85@gmail.com
+
+
+2- Serdar Tahiroğlu
+
+HR Director
+
+Egemsoft Bilgi İletişim A.Ş
+
+Email: serdar.tahiroglu@egemsoft.net
+
