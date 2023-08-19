@@ -76,4 +76,6 @@ You can see my CV from my [Linkedin Profile]([url](https://www.linkedin.com/in/a
 **ISTQB Foundation Level Test Specialist Certificate** 2018
 
 # **Examples of my work**
-Due to the company rules, it is forbidden to share resources or documents related to the projects I was involved in, so I cannot give written information about projects. But I'm working in telecommunication area and I worked as a analyst in many fiber and copper internet projects and IoT projects.
+- Due to the company rules, it is forbidden to share resources or documents related to the projects I was involved in, so I cannot give written information about projects. But I'm working in telecommunication area and I worked as a analyst in many fiber and copper internet projects and IoT projects.
+
+- Also I voluntarily participate in alpha or beta tests of games that are in development phase outside of working hours. ex: DayZ Standalone, Project Zomboid
