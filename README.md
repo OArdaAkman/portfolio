@@ -1,7 +1,7 @@
 # Portfolio
 # **About Me**
 
-I am a dedicated former software test engineer with 3 years of experience in ensuring the quality and reliability of software applications. Currently i'm working as a product owner/business analyst with 3 years experience.
+I am a dedicated former software test engineer with 3 years of experience in ensuring the quality and reliability of software applications. Currently i'm working as a product owner/business analyst with another 3 years experience. I have been involved in Software Development Life Cyle for more than 6 years in total.
 My willing to finding defects and optimizing testing processes has driven me to excel in various projects across different industries. Then I've started to analyzing process and creating products with zero defect tolerant.
 
 I got my Bachelor's Degree from the Bilkent University with %50 scholarship in Turkey. Now, I wish to exploit my research and analytical skills in software testing and business analyst process.
@@ -65,10 +65,15 @@ You can see my CV from my [Linkedin Profile]([url](https://www.linkedin.com/in/a
 - Create web-based corporate wiki for software projects
 - Store project documents and share them on the fly
 
+# **Involved Software Development Methodologies**
+- Waterfall Model
+- Agile Model
+- V-Shaped Model
+
 # **Courses/ Certificates**
 **IIBA Advanced Babok v3 (CBAP Prep Course)** 2022
 
 **ISTQB Foundation Level Test Specialist Certificate** 2018
 
-**Examples of my work**
+# **Examples of my work**
 Due to the company rules, it is forbidden to share resources or documents related to the projects I was involved in, so I cannot give written information about projects. But I'm working in telecommunication area and I worked as a analyst in many fiber and copper internet projects and IoT projects.
